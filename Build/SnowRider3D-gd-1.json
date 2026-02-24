@@ -1,9 +1,9 @@
 {
   "companyName": "Snow Rider",
   "productName": "Snow Rider 3D",
-  "dataUrl": "SnowRider3D-gd-1.data.unityweb",
-  "wasmCodeUrl": "SnowRider3D-gd-1.wasm.code.unityweb",
-  "wasmFrameworkUrl": "SnowRider3D-gd-1.wasm.framework.unityweb.js",
+  "dataUrl": "https://cdn.jsdelivr.net/gh/drippy-cat/snowrider3D@c82fe583cbffafa502b0aa3ed2da0053972e0c80/Build/SnowRider3D-gd-1.data.unityweb",
+  "wasmCodeUrl": "https://cdn.jsdelivr.net/gh/drippy-cat/snowrider3D@c82fe583cbffafa502b0aa3ed2da0053972e0c80/Build/SnowRider3D-gd-1.wasm.code.unityweb",
+  "wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/drippy-cat/snowrider3D@c82fe583cbffafa502b0aa3ed2da0053972e0c80/Build/SnowRider3D-gd-1.wasm.framework.unityweb.js",
   "TOTAL_MEMORY": 268435456,
   "graphicsAPI": [
     "WebGL 2.0",
